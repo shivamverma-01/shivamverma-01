@@ -17,7 +17,7 @@
 
 
 
-<h2 align="left">👩‍💻 About me</h2> <img height="180" align= "right" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"   />
+<h2 align="left">👩‍💻 About me</h2> <img height="160" align= "right" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"   />
 
 
 
@@ -114,15 +114,25 @@
 
 <br clear="both">
 
-<div align="left">
- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivamverma26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="170" alt="stats graph" /> </div><br>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamverma26&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="160" alt="languages graph" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=shivamverma26&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph" /></div>
- <br>
-  <img src="https://github-profile-trophy.vercel.app?username=shivamverma26&theme=dracula&column=-1&row=2&margin-w=10&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamverma26&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <!-- GitHub Stats, Top Languages, and Streaks in the Same Row -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shivamverma26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="170" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamverma26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="170" alt="languages graph" />
+    <img src="https://streak-stats.demolab.com?user=shivamverma26&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5" height="170" alt="streak graph" />
+  </div>
+  
+  <!-- Trophies -->
+  <div style="margin-top: 20px;">
+    <img src="https://github-profile-trophy.vercel.app?username=shivamverma26&theme=dracula&column=-1&row=2&margin-w=10&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
+  </div>
+
+  <!-- Activity Graph -->
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamverma26&radius=16&theme=react&area=true&hide_border=true&hide_title=true" height="300" alt="activity graph" />
+  </div>
 </div>
+
 
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
