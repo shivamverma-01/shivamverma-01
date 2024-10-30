@@ -115,20 +115,26 @@
 <br clear="both">
 
 <div align="center">
-  <!-- GitHub Stats, Top Languages, and Streaks in the Same Row with Padding -->
-  <div style="display: flex; justify-content: center; gap: 5px; padding-top: 15px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shivamverma26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamverma26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="150" alt="languages graph" />
-    <img src="https://streak-stats.demolab.com?user=shivamverma26&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+    <!-- Stats Graph -->
+    <img src="https://github-readme-stats.vercel.app/api?username=shivamverma26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="170" alt="stats graph" />
+
+    <!-- Languages Graph -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamverma26&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=vue-dark&hide_border=true" height="160" alt="languages graph" />
   </div>
   
-  <!-- Trophies -->
   <div style="margin-top: 20px;">
+    <!-- Streak Graph -->
+    <img src="https://streak-stats.demolab.com?user=shivamverma26&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5" height="160" alt="streak graph" />
+  </div>
+
+  <div style="margin-top: 20px;">
+    <!-- Trophy Graph -->
     <img src="https://github-profile-trophy.vercel.app?username=shivamverma26&theme=dracula&column=-1&row=2&margin-w=10&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
   </div>
 
-  <!-- Activity Graph -->
   <div style="margin-top: 20px;">
+    <!-- Activity Graph -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamverma26&radius=16&theme=react&area=true&hide_border=true&hide_title=true" height="300" alt="activity graph" />
   </div>
 </div>
