@@ -12,7 +12,7 @@
 ##
 
 <h2 align="left">👩‍💻 About me</h2> 
-<img height="180" align="right" style="margin-top: 20px;" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif" />
+<img height="180" align="right" style="margin-top: 40px;" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif" />
 
 
 
