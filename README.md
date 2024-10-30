@@ -11,7 +11,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=536&height=61&lines=I'm+Shivam+Verma+and+I'm+a+Java+Developer)](https://git.io/typing-svg)
 ##
 
-<h2 align="left">👩‍💻 About me</h2> <img height="180" align= "right" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif"   />
+<h2 align="left">👩‍💻 About me</h2> 
+<img height="180" align="right" style="margin-top: 20px;" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif" />
+
 
 
 ##
