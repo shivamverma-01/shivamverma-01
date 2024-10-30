@@ -125,17 +125,17 @@
   
   <div style="margin-top: 20px;">
     <!-- Streak Graph -->
-    <img src="https://streak-stats.demolab.com?user=shivamverma26&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5" height="160" alt="streak graph" />
+    <img src="https://streak-stats.demolab.com?user=shivamverma-01&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5" height="160" alt="streak graph" />
   </div>
 
   <div style="margin-top: 20px;">
     <!-- Trophy Graph -->
-    <img src="https://github-profile-trophy.vercel.app?username=shivamverma26&theme=dracula&column=-1&row=2&margin-w=10&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
+    <img src="https://github-profile-trophy.vercel.app?username=shivamverma-01&theme=dracula&column=-1&row=2&margin-w=10&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
   </div>
 
   <div style="margin-top: 20px;">
     <!-- Activity Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamverma26&radius=16&theme=react&area=true&hide_border=true&hide_title=true" height="300" alt="activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamverma-01&radius=16&theme=react&area=true&hide_border=true&hide_title=true" height="300" alt="activity graph" />
   </div>
 </div>
 
