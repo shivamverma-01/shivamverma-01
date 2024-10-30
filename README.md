@@ -12,12 +12,12 @@
 ##
 
 <h2 align="left">👩‍💻 About me</h2> 
-<img height="180" align="right" style="margin-top: 40px;" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif" />
+
 
 
 
 ##
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Microservices<br>🎯 Goals: Get 1% better every day<br>🎲 Fun fact: Grace Hopper coined the term "debugging" after finding a moth in a computer.</p> 
+<p align="left" <img height="180" align="right" style="margin-top: 40px;" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif" />>✨ Creating bugs since 2020<br>📚 I'm currently learning Microservices<br>🎯 Goals: Get 1% better every day<br>🎲 Fun fact: Grace Hopper coined the term "debugging" after finding a moth in a computer.</p> 
  
 <br>
 
