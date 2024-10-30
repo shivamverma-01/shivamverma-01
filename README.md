@@ -115,8 +115,8 @@
 <br clear="both">
 
 <div align="center">
-  <!-- GitHub Stats, Top Languages, and Streaks in the Same Row -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <!-- GitHub Stats, Top Languages, and Streaks in the Same Row with Padding -->
+  <div style="display: flex; justify-content: center; gap: 5px; padding-top: 15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=shivamverma26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="170" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamverma26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="170" alt="languages graph" />
     <img src="https://streak-stats.demolab.com?user=shivamverma26&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5" height="170" alt="streak graph" />
